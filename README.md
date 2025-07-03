@@ -195,10 +195,4 @@ curl -X POST http://localhost:5026/api/auth/login \
 
 This project is licensed under the MIT License.
 
-## 📞 Support
-
-For support, please contact [your-email@example.com] or create an issue in the repository.
-
----
-
 **Built with ❤️ using .NET 9**
