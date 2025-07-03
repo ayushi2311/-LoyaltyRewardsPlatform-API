@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyaltyRewardsApi", "LoyaltyRewardsApi.csproj", "{B69C922D-B5A3-679E-C82E-479A352E9750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69C922D-B5A3-679E-C82E-479A352E9750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69C922D-B5A3-679E-C82E-479A352E9750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69C922D-B5A3-679E-C82E-479A352E9750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69C922D-B5A3-679E-C82E-479A352E9750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A55C51-DBEE-4661-A18D-2B2B8F021863}
+	EndGlobalSection
+EndGlobal
